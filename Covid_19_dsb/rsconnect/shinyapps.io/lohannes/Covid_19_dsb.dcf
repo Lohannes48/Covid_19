@@ -1,0 +1,12 @@
+name: Covid_19_dsb
+title: Covid_19_dsb
+username:
+account: lohannes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1979664
+bundleId: 2911172
+url: https://lohannes.shinyapps.io/Covid_19_dsb/
+when: 1584936532.63655
+asMultiple: FALSE
+asStatic: FALSE
